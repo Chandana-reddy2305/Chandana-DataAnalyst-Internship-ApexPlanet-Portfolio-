@@ -1,0 +1,21 @@
+Key Learnings
+
+• Data Cleaning using Python
+
+• Data Wrangling using Pandas
+
+• Exploratory Data Analysis
+
+• SQL Query Writing
+
+• Dashboard Creation
+
+• Business Intelligence
+
+• Statistical Hypothesis Testing
+
+• Data Storytelling
+
+• GitHub Portfolio Management
+
+• Professional Documentation
